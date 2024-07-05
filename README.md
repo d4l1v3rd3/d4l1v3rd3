@@ -12,9 +12,15 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 (EN PROCESO)
 
 ## PLATAFORMAS: 💬
-| HTB | PortSwinger | OverTheWire |
-| -------- | ------- | -------- |
-| ![image](https://github.com/D4l1-web/D4l1-web/assets/79869523/fcda6f47-25b1-4029-b8b8-7586170eedeb) | ![image](https://github.com/D4l1-web/D4l1-web/assets/79869523/bd290350-af83-4a58-98f5-e41fbfda01b7) | ![image](https://github.com/D4l1-web/D4l1-web/assets/79869523/4ac1796b-308f-4901-8267-5e5bfb3eb2a6)
+| HTB | PortSwinger | OverTheWire | hacker 101 |
+| -------- | ------- | -------- | -------- |
+| <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/fcda6f47-25b1-4029-b8b8-7586170eedeb" title="Python"  alt="Python" width="55" height="55"/>  |<img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/bd290350-af83-4a58-98f5-e41fbfda01b7" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/4ac1796b-308f-4901-8267-5e5bfb3eb2a6" title="Python"  alt="Python" width="55" height="55"/>  | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/5d1dec16-fdf0-4d9f-8aa9-3f0c90869d81" title="Python"  alt="Python" width="55" height="55"/> |
+
+## LENGUAJES : 
+
+| Python3 | Bash | Ps1 | 
+| -------- | -------- | -------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 
 
