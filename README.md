@@ -36,7 +36,7 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 ## Mis proyectos a futuro: ⚡
 
 - [Ruta-Penetration-Tester](https://github.com/D4l1-web/PenetrationTester-Ruta) - La ruta que haré para sacarme el OSCP y el ETH.
-- [30-Dias-python](https://github.com/D4l1-web/30-dias-python-spanish) - La ruta que haré para aprender Python bien y traduciré el famoso repositorio al Español.
+
 
 ## Mis Redes sociales:  
 
