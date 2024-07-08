@@ -8,7 +8,7 @@ Titulado como técnico en informática y trabajando en "BM SPORTECH" como técni
 
 Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a mí y a todos los que quieran aprender.
 
-### Redes socailes: ⚡
+### Redes sociales: ⚡
 (EN PROCESO)
 
 ## PLATAFORMAS: 💬
