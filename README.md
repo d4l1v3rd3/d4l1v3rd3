@@ -1,20 +1,23 @@
-<h1 align="center"> Bienvenidos 👋 </h1>
+<h1 align="center"> ✨ Bienvenidos ✨</font> </h1>
 
-## SOBRE MI: 👯
+<p align="center"><img src="https://github.com/user-attachments/assets/0733e726-f915-4828-a048-cbedc6275209" width="155" height="155"></p>
 
-Soy un apasionado de la ciberseguridad, enfocado en el pentesting web, adoro aprender y seguir formandome en este mundo tan apasionante. 
 
-Me dedico a enseñar y aprender, hago CTFS.
+<h2 align="center"> 👯 SOBRE MI 👯 </h2>
 
-Titulado como técnico en informática y trabajando en "BM SPORTECH" como técnico de soporte.
+Soy un apasionado de la ciberseguridad, enfocado en el pentesting web, adoro aprender y seguir formandome en este mundo tan apasionante. 🔴
 
-Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a mí y a todos los que quieran aprender.
+Me dedico a enseñar y aprender, hago CTFS. 🏴
 
-## PLATAFORMAS: 💬
-| HTB | PortSwinger | OverTheWire | hacker 101 |
-| -------- | ------- | -------- | -------- |
-| <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/fcda6f47-25b1-4029-b8b8-7586170eedeb" title="Python"  alt="Python" width="55" height="55"/>  |<img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/bd290350-af83-4a58-98f5-e41fbfda01b7" title="Python"  alt="Python" width="55" height="55"/> |<img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/4ac1796b-308f-4901-8267-5e5bfb3eb2a6" title="Python"  alt="Python" width="55" height="55"/>  | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/5d1dec16-fdf0-4d9f-8aa9-3f0c90869d81" title="Python"  alt="Python" width="55" height="55"/> |
+Titulado como técnico en informática y trabajando como técnico de soporte. 📈
 
+Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a mí y a todos los que quieran aprender. 🥇
+
+<h2 align="center"> ↘️ PLATAFORMAS ↘️ </h2>
+
+| HTB | PortSwinger | OverTheWire | hacker 101 | TryHackme | 
+| -------- | -------- | -------- | -------- | -------- | 
+| <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/fcda6f47-25b1-4029-b8b8-7586170eedeb" title="Python"  alt="Port" width="55" height="55"/>  | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/bd290350-af83-4a58-98f5-e41fbfda01b7" title="Python"  alt="OverTheWire" width="55" height="55"/> | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/4ac1796b-308f-4901-8267-5e5bfb3eb2a6" title="Python"  alt="Python" width="55" height="55"/>  | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/5d1dec16-fdf0-4d9f-8aa9-3f0c90869d81" title="Python"  alt="Hacker101" width="55" height="55"/> |  <img src="https://github.com/user-attachments/assets/7db71473-f9db-46e4-986c-b3d49696dd91" title="Truhackme"  alt="Python" width="55" height="55"/>  | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/5d1dec16-fdf0-4d9f-8aa9-3f0c90869d81" title="Python"  alt="Python" width="55" height="55"/> | 
 ## LENGUAJES : 
 
 | Python3 | Bash | Ps1 | 
