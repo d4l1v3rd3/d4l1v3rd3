@@ -35,7 +35,7 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 | Metasploit | Burpsuite | Nmap | Wireshark | FFUF |
 | --------- | --------- | -------- | --------- | ------- |
-| <img src="https://github.com/user-attachments/assets/20ef25fd-0a81-4102-bb49-8b8ff45ef3e2" alt="msf" width="55" height="55" /> | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/e9ab218c-90f7-438d-9d0a-db624c35e0a8" alt="msf" width="85" height="55" /> | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/b7acdf30-8619-4d19-bfa3-a337c0341eb3" alt="msf" width="55" height="55" /> | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/c310372f-2063-4db6-957b-d8138d8a048c" alt="msf" width="55" height="55" /> | <img src="https://github.com/user-attachments/assets/b2c02510-751c-4a08-ad3f-c8cfef0afb1d" width="55" height="55">
+| <img src="https://github.com/user-attachments/assets/20ef25fd-0a81-4102-bb49-8b8ff45ef3e2" alt="msf" width="55" height="55" /> | <img src="https://github.com/user-attachments/assets/bed6b414-169a-4564-b35a-284b9f1eee77" alt="msf" width="85" height="55" /> | <img src="https://github.com/D4l1-web/D4l1-web/assets/79869523/b7acdf30-8619-4d19-bfa3-a337c0341eb3" alt="msf" width="55" height="55" /> | <img src="https://github.com/user-attachments/assets/240dfb24-ef2f-4772-af23-ca7ffb77714c" alt="msf" width="55" height="55" /> | <img src="https://github.com/user-attachments/assets/b2c02510-751c-4a08-ad3f-c8cfef0afb1d" width="55" height="55">
 
 ## Mis proyectos a futuro: ⚡
 
