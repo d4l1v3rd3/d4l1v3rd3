@@ -39,7 +39,7 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 ## Mis proyectos a futuro: ⚡
 
-- [Ruta-Penetration-Tester](https://github.com/D4l1-web/PenetrationTester-Ruta) - La ruta que haré para sacarme el OSCP y el ETH.
+- [Ruta-Penetration-Tester](https://github.com/d4l1v3rd3/PenetrationTester-Ruta) - La ruta que haré para sacarme el OSCP y el ETH.
 
 
 ## Mis Redes sociales:  
@@ -48,14 +48,14 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 ---
 <p align="center">
- <img width="800" height="220" src="https://streak-stats.demolab.com?user=D4l1-web&theme=dark" >
+ <img width="800" height="220" src="https://streak-stats.demolab.com?user=d4l1v3rd3&theme=dark" >
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=D4l1-web&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4l1-web&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=d4l1v3rd3&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4l1v3rd3&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <div id="header" align="center">
