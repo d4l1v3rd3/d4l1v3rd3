@@ -1,6 +1,6 @@
 <h1 align="center"> ✨ Bienvenidos ✨</font> </h1>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/0733e726-f915-4828-a048-cbedc6275209" width="155" height="155"></p>
+<p align="center"><img height=300px width=300px src="https://github.com/user-attachments/assets/28eba669-a8dd-418a-bc8d-cc7c8e147edc"></p>
 
 
 <h2 align="center"> 👯 SOBRE MI 👯 </h2>
