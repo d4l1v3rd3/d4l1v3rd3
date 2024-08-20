@@ -27,9 +27,9 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 <h2 align="center"> 💻 SISTEMAS OPERATIVOS 💻 </h2> 
 
-| Linux | Ubuntu | Kali | Windows | MacOs | 
+| Parrot | Ubuntu | Kali | Windows | MacOs | 
 | -------- | -------- | -------- | -------- | -------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/a2ab549e-2485-4f51-959c-dc6c7a0a7815" alt="macOS" width=55 height=55>
+| <img src="https://github.com/user-attachments/assets/eabc6626-ffe3-441a-85a8-977c62c00260" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/a2ab549e-2485-4f51-959c-dc6c7a0a7815" alt="macOS" width=55 height=55>
 
 <h2 align="center"> 🧰 HERRAMIENTAS PARA CTFS 🧰 </h2>
 
