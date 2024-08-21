@@ -21,7 +21,7 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 <h2 align="center"> 📖 LENGUAJES 📖 </h2> 
 
-| Python3 | Bash | Ps1 | 
+| Python | Bash | Ps1 | 
 | -------- | -------- | -------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
