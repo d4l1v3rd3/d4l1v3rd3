@@ -39,8 +39,12 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 ## Mis proyectos a futuro: ⚡
 
+
+Repositorio | Decripción
+--- | ---
 [Ruta-Penetration-Tester](https://github.com/d4l1v3rd3/PenetrationTester-Ruta) | La ruta que estoy creando para sacarme el OSCP y el ETH.
---- | --- | 
+[Mis CTFs](https://github.com/d4l1v3rd3/CTF) | Todas las CTF que quiero ir subiendo porque me parecen interesantes.
+[Ciberseguridad](https://github.com/d4l1v3rd3/Ciberseguridad) | Entender lo básico en Seguridad Informática y utilidades en diferentes ámbitos
 
 
 
