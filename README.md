@@ -39,9 +39,9 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 <h2 align="center"> 🥇 OTROS 🥇 </h2>
 
-| Active Directory | Virtual Box | 
-| --- | --- | 
-| <img src="https://github.com/user-attachments/assets/10128a6e-5c06-4b81-a945-8585e41d1538" width=55 height=55> | <img src="https://github.com/user-attachments/assets/1e7536d1-3c67-460f-a29f-c13ad064284b" width=55 height=55>
+| Active Directory | Virtual Box | VMware
+| --- | --- | --- | 
+| <img src="https://github.com/user-attachments/assets/10128a6e-5c06-4b81-a945-8585e41d1538" width=55 height=55> | <img src="https://github.com/user-attachments/assets/1e7536d1-3c67-460f-a29f-c13ad064284b" width=55 height=55> | <img src="https://github.com/user-attachments/assets/72f9cd17-76d4-42da-b1f1-0a21ad6ec263" width=55 height=55>
 
 ## Mis proyectos a futuro: ⚡
 
