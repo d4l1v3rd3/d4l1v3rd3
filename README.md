@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ Bienvenidos ✨</font> </h1>
+![image](https://github.com/user-attachments/assets/cf1bfae4-309c-4b68-9760-eb64a8bceb1b)<h1 align="center"> ✨ Bienvenidos ✨</font> </h1>
 
 <p align="center"><img height=300px width=300px src="https://github.com/user-attachments/assets/28eba669-a8dd-418a-bc8d-cc7c8e147edc"></p>
 
@@ -39,9 +39,9 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 <h2 align="center"> 🥇 OTROS 🥇 </h2>
 
-| Active Directory | Virtual Box | VMware
-| --- | --- | --- | 
-| <img src="https://github.com/user-attachments/assets/10128a6e-5c06-4b81-a945-8585e41d1538" width=55 height=55> | <img src="https://github.com/user-attachments/assets/1e7536d1-3c67-460f-a29f-c13ad064284b" width=55 height=55> | <img src="https://github.com/user-attachments/assets/72f9cd17-76d4-42da-b1f1-0a21ad6ec263" width=55 height=55>
+| Active Directory | Virtual Box | VMware | Unifi
+| --- | --- | --- | --- |
+| <img src="https://github.com/user-attachments/assets/10128a6e-5c06-4b81-a945-8585e41d1538" width=55 height=55> | <img src="https://github.com/user-attachments/assets/1e7536d1-3c67-460f-a29f-c13ad064284b" width=55 height=55> | <img src="https://github.com/user-attachments/assets/72f9cd17-76d4-42da-b1f1-0a21ad6ec263" width=55 height=55> | <img src="https://github.com/user-attachments/assets/c9d08bb6-0338-4dec-9c4c-6943dac6cbab" width=55 height=55>
 
 ## Mis proyectos a futuro: ⚡
 
