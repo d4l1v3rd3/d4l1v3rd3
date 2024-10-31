@@ -2,7 +2,6 @@
 
 <p align="center"><img height=300px width=300px src="https://github.com/user-attachments/assets/28eba669-a8dd-418a-bc8d-cc7c8e147edc"></p>
 
-
 <h2 align="center"> 👯 SOBRE MI 👯 </h2>
 
 <p align="center">
