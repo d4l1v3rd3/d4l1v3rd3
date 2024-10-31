@@ -24,9 +24,9 @@ Aquí estan mis trabajos, logros, pasiones e información que me vendra bien a m
 
 <h2 align="center"> 📖 LENGUAJES 📖 </h2> 
 
-| Python | Bash | Ps1 | 
-| -------- | -------- | -------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| Python | Bash | Ps1 | SQL |
+| -------- | -------- | -------- | --- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/1b5555a8-4770-4520-92e2-c80f1bbf7b22" width="55" height="55">
 
 <h2 align="center"> 💻 SISTEMAS OPERATIVOS 💻 </h2> 
 
