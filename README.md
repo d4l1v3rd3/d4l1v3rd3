@@ -5,7 +5,8 @@
 <h2 align="center"> 👯 SOBRE MI 👯 </h2>
 
 <p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/SrVerde.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/SrVerde.png" alt="new" />
+
 </p>
 
 Soy un apasionado de la ciberseguridad, enfocado en el pentesting web, adoro aprender y seguir formandome en este mundo tan apasionante. 🔴
